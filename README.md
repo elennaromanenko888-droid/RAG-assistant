@@ -81,7 +81,7 @@ python rag_assistant.py --question "Что такое чанкинг и заче
 
 ## Как загрузить на GitHub
 
-Создайте пустой репозиторий на GitHub с названием `case-2-rag-assistant`, затем выполните команды в папке проекта:
+Создайте пустой репозиторий на GitHub с названием `RAG-assistant`, затем выполните команды в папке проекта:
 
 ```powershell
 git config user.name "Ваше Имя"
@@ -89,7 +89,7 @@ git config user.email "your-email@example.com"
 git add .
 git commit -m "Add case 2 RAG assistant"
 git branch -M main
-git remote add origin https://github.com/USERNAME/case-2-rag-assistant.git
+git remote add origin https://github.com/USERNAME/RAG-assistant.git
 git push -u origin main
 ```
 
